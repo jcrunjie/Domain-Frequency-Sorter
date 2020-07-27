@@ -1,3 +1,6 @@
+Description:
+This is a python CTF challenge project done during my internship
+
 Tool Summary:
 This is a tool that takes in a file with IPv4 addresses, resolves the IPs to hostnames or domains, 
 and sorts and displays the occurrence of the domains from most frequent to least frequent
